@@ -9,3 +9,4 @@ else {
    Write-Host "The .Net Framework 3.5 is already installed"
    
 }
+Pause
